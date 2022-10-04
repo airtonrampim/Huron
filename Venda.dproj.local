@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/27 17:00:31.000.506,=D:\Projetos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2022/09/27 17:01:22.000.233,D:\Projetos\Embarcadero\uMainForm.dfm=D:\Projetos\Embarcadero\Unit1.dfm</Transaction>
+    <Transaction>2022/09/27 17:01:22.000.233,D:\Projetos\Embarcadero\uMainForm.pas=D:\Projetos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2022/09/27 17:01:30.000.051,D:\Projetos\Embarcadero\Venda.dproj=D:\Projetos\Embarcadero\Project1.dproj</Transaction>
+    <Transaction>2022/09/27 17:01:37.000.886,=D:\Projetos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 17:01:41.000.542,D:\Projetos\Embarcadero\Cliente.pas=D:\Projetos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 17:01:41.000.542,D:\Projetos\Embarcadero\Cliente.dfm=D:\Projetos\Embarcadero\Unit2.dfm</Transaction>
+    <Transaction>2022/09/27 17:02:53.000.372,D:\Projetos\Embarcadero\Cliente.pas=</Transaction>
+    <Transaction>2022/09/27 17:03:06.000.814,=D:\Projetos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 17:03:14.000.802,D:\Projetos\Embarcadero\uCliente.dfm=D:\Projetos\Embarcadero\Unit2.dfm</Transaction>
+    <Transaction>2022/09/27 17:03:14.000.802,D:\Projetos\Embarcadero\uCliente.pas=D:\Projetos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 17:03:29.000.537,=D:\Projetos\Embarcadero\Unit3.pas</Transaction>
+    <Transaction>2022/09/27 17:03:35.000.051,D:\Projetos\Embarcadero\uProduto.pas=D:\Projetos\Embarcadero\Unit3.pas</Transaction>
+    <Transaction>2022/09/27 17:03:35.000.051,D:\Projetos\Embarcadero\uProduto.dfm=D:\Projetos\Embarcadero\Unit3.dfm</Transaction>
+    <Transaction>2022/09/27 17:03:38.000.032,=D:\Projetos\Embarcadero\Unit4.pas</Transaction>
+    <Transaction>2022/09/27 17:03:43.000.210,D:\Projetos\Embarcadero\uPedido.dfm=D:\Projetos\Embarcadero\Unit4.dfm</Transaction>
+    <Transaction>2022/09/27 17:03:43.000.210,D:\Projetos\Embarcadero\uPedido.pas=D:\Projetos\Embarcadero\Unit4.pas</Transaction>
+    <Transaction>2022/09/29 11:54:00.000.280,=D:\Projetos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2022/09/29 11:54:12.000.909,D:\Projetos\Embarcadero\uUtils.pas=D:\Projetos\Embarcadero\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
